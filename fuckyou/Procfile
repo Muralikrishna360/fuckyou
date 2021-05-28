@@ -1,0 +1,1 @@
+echo web: gunicorn fuckyou.wsgi --log-file - >Procfile
